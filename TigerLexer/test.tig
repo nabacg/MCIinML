@@ -1,0 +1,13 @@
+/* an array type and /* NESTED */ an array variable */
+let
+	type  arrtype = array of int
+    var s:string := "TEST laksdjlka asd \t \
+
+
+    \ end of string"
+    "as d
+	var arr1:arrtype := arrtype [10] of 0
+in
+	arr1
+    " Un finished string...
+end
